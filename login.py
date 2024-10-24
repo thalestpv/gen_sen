@@ -3,7 +3,7 @@ from tkinter import Button
 from customtkinter import *
 
 def clique_aqui():
-    print("button_1")
+    print("")
 
 janela = CTk()
 janela.geometry("400x400")
