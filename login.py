@@ -79,6 +79,7 @@ ent_senha = CTkEntry(
     text_color=branco,
     width=238,
     height=44,
+    show="●",
     font=("Roboto Bold", 16 * -1, "bold"),
 )
 ent_senha.place(x=581,y=256)
