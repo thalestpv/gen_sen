@@ -1,7 +1,5 @@
-# antes de usar:
+# Antes de usar:
 ```
-pip install customtkinter
+pip install -r requirements
 ```
-```
-pip install pillow
-```
+
